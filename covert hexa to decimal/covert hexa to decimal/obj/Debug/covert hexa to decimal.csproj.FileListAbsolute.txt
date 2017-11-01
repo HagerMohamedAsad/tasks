@@ -1,0 +1,6 @@
+c:\users\hajar\documents\visual studio 2013\Projects\covert hexa to decimal\covert hexa to decimal\bin\Debug\covert hexa to decimal.exe.config
+c:\users\hajar\documents\visual studio 2013\Projects\covert hexa to decimal\covert hexa to decimal\bin\Debug\covert hexa to decimal.exe
+c:\users\hajar\documents\visual studio 2013\Projects\covert hexa to decimal\covert hexa to decimal\bin\Debug\covert hexa to decimal.pdb
+c:\users\hajar\documents\visual studio 2013\Projects\covert hexa to decimal\covert hexa to decimal\obj\Debug\covert hexa to decimal.csprojResolveAssemblyReference.cache
+c:\users\hajar\documents\visual studio 2013\Projects\covert hexa to decimal\covert hexa to decimal\obj\Debug\covert hexa to decimal.exe
+c:\users\hajar\documents\visual studio 2013\Projects\covert hexa to decimal\covert hexa to decimal\obj\Debug\covert hexa to decimal.pdb
